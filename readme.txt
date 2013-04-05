@@ -1,0 +1,1 @@
+End call in android. As there is no API available for this. It is hack which do so tested for version 2.2 to 4.
